@@ -20,9 +20,3 @@
   - docker build . -t myImage:0.0.1
   
 4)  Запустить Контейнер через docker run ...
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Secur
